@@ -1,0 +1,52 @@
+{
+    "users": [
+      {
+        "Name": "Rahul Kumar Mahato",
+        "Age": "30",
+        "Salary": "52000",
+        "id": 1
+      },
+      {
+        "Name": "Raju Kumar Mahato",
+        "Age": "25",
+        "Salary": "25000",
+        "id": 2
+      },
+      {
+        "Name": "Tiger Nixon",
+        "Age": "61",
+        "Salary": "320800",
+        "id": 3
+      },
+      {
+        "Name": "Garrett Winters",
+        "Age": "63",
+        "Salary": "170750",
+        "id": 4
+      },
+      {
+        "Name": "Ashton Cox",
+        "Age": "66",
+        "Salary": "86000",
+        "id": 5
+      },
+      {
+        "Name": "Cedric Kelly",
+        "Age": "22",
+        "Salary": "433060",
+        "id": 6
+      },
+      {
+        "Name": "Airi Satou",
+        "Age": "33",
+        "Salary": "162700",
+        "id": 7
+      },
+      {
+        "Name": "Brielle Williamson",
+        "Age": "61",
+        "Salary": "372000",
+        "id": 8
+      }
+    ]
+  }
